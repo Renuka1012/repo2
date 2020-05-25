@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is B658-CC89
-
- Directory of C:\Users\renuk\Desktop\Myproject
-
-05/24/2020  11:40 PM    <DIR>          .
-05/24/2020  11:40 PM    <DIR>          ..
-05/24/2020  11:40 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  435,648,061,440 bytes free
+change 1
